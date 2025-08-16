@@ -43,5 +43,5 @@ which is triple-licensed under MPL 2.0, GPLv2, and Apache License 2.0.
 ### Original Java Library
 
 - **Library Name:** [RabbitMQ Java Client](https://github.com/rabbitmq/rabbitmq-java-client)  
-- **Original Author:** VMware RabbitMQ Team  
+- **Original Author:** Broadcom RabbitMQ Team  
 - **License:** MPL 2.0, GPLv2, or Apache License 2.0
