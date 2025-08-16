@@ -4,18 +4,26 @@ ModulesStructureVersion=1
 Type=Class
 Version=10.3
 @EndOfDesignText@
-'  FrostRabbitMQ
-'  Original Sample code By  MAGMA, Georgios Kantzas.
-'  Library And Advance Code Sample By Frost Codes ( Oluwaseyi Aderinkomi )
+'FrostRabbitMQ
 '
-'  License: https://github.com/rabbitmq/rabbitmq-java-client?tab=License-1-ov-file
-'  Code:    https://github.com/frostcodes/FrostRabbitMQ-For-B4J
-'  Links: 
-'           https://github.com/frostcodes
-'           https://www.b4x.com/android/forum/members/frostcodes.107647/
+'Original Sample code By  MAGMA, Georgios Kantzas.
+'Link: https://www.b4x.com/android/forum/threads/b4j-rabbitmq-client-ssl-username-password.166110/
+'
+'Library And Advance Code Sample By Frost Codes ( Oluwaseyi Aderinkomi )
 '
 '
-'  Support my work 👇👇
+'License:
+'This project Is licensed under the Apache License 2.0 And depends on the RabbitMQ Java Client,
+'which is triple-licensed under MPL 2.0, GPLv2, and Apache License 2.0.
+'
+'
+'Code:    https://github.com/frostcodes/FrostRabbitMQ-For-B4J
+'Links: 
+'         https://github.com/frostcodes
+'         https://www.b4x.com/android/forum/members/frostcodes.107647/
+'
+'
+'Support my work 👇👇
 '  LINK 1: https://flutterwave.com/donate/xua1z1xmabji
 '  LINK 2: https://paystack.com/pay/rbhzwdgozj
 

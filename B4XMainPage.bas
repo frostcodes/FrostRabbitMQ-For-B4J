@@ -5,10 +5,18 @@ Type=Class
 Version=9.85
 @EndOfDesignText@
 'RabbitMQ Sample
+'
 'Original Sample code By  MAGMA, Georgios Kantzas.
+'Link: https://www.b4x.com/android/forum/threads/b4j-rabbitmq-client-ssl-username-password.166110/
+'
 'Library And Advance Code Sample By Frost Codes ( Oluwaseyi Aderinkomi )
 '
-'License: https://github.com/rabbitmq/rabbitmq-java-client?tab=License-1-ov-file
+'
+'License:
+'This project Is licensed under the Apache License 2.0 And depends on the RabbitMQ Java Client,
+'which is triple-licensed under MPL 2.0, GPLv2, and Apache License 2.0.
+'
+'
 'Code:    https://github.com/frostcodes/FrostRabbitMQ-For-B4J
 'Links: 
 '         https://github.com/frostcodes
