@@ -2,6 +2,10 @@
 
 FrostRabbitMQ is an advanced B4J wrapper for the [RabbitMQ Java Client](https://github.com/rabbitmq/rabbitmq-java-client) library.  
 It enables B4X developers to integrate AMQP messaging into their applications using RabbitMQ easily.
+With FrostRabbitMQ, you can build scalable, event-driven applications.
+
+This library was built on top of the wonderful work of Magma(Georgios Kantzas):
+https://www.b4x.com/android/forum/threads/b4j-rabbitmq-client-ssl-username-password.166110/
 
 ## Project Contents
 - Code samples
