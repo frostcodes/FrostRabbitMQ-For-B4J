@@ -18,7 +18,7 @@ It enables B4X developers to integrate AMQP messaging into their applications us
 2. **Add to B4J Library Folder:**
    - Move the JAR file(s) to your B4J additional library folder.
 
-3. **Start Using AMQP:**
+3. **Start Using:**
    - Once the library is set up, you can connect to a RabbitMQ broker and use AMQP features (queues, exchanges, routing, etc.) directly from B4J.
 
 ## 💰 Support My Work
