@@ -2,6 +2,7 @@
 
 FrostRabbitMQ is an advanced B4J wrapper for the [RabbitMQ Java Client](https://github.com/rabbitmq/rabbitmq-java-client) library.  
 It enables B4X developers to integrate AMQP messaging into their applications using RabbitMQ easily.
+
 With FrostRabbitMQ, you can build scalable, event-driven applications.
 
 This library was built on top of the wonderful work of Magma(Georgios Kantzas):
@@ -13,13 +14,13 @@ https://www.b4x.com/android/forum/threads/b4j-rabbitmq-client-ssl-username-passw
 
 ## How to Use
 
-1. **Download the JAR File:**
+1. **Download Required JARs:**
    - [RabbitMQ Java Client JAR](https://repo1.maven.org/maven2/com/rabbitmq/amqp-client/5.26.0/amqp-client-5.26.0.jar)
    - Required dependencies:
      - [slf4j-api](https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar)
      - [bridj](https://repo1.maven.org/maven2/com/nativelibs4java/bridj/0.7.0/bridj-0.7.0.jar)
 
-2. **Add to B4J Library Folder:**
+2. **Add JARs to B4J Library Folder:**
    - Move the JAR file(s) to your B4J additional library folder.
 
 3. **Start Using:**
