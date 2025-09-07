@@ -8,7 +8,7 @@ With FrostRabbitMQ, you can build scalable, event-driven applications.
 This library was built on top of the wonderful work of Magma(Georgios Kantzas):
 https://www.b4x.com/android/forum/threads/b4j-rabbitmq-client-ssl-username-password.166110/
 
-> ## ⚡ [If you want the multithreaded version (High-Performance Messaging), check here](https://www.b4x.com/android/forum/threads/donationware-frostrabbitmq-multithreaded-rabbitmq-wrapper-high-performance-messaging.168561/)
+> ## ⚡ [If you want the multi-threaded version (High-Performance Messaging), check here](https://www.b4x.com/android/forum/threads/donationware-frostrabbitmq-multithreaded-rabbitmq-wrapper-high-performance-messaging.168561/)
 
 
 ## Project Contents
@@ -48,7 +48,7 @@ MADE WITH ❤ by [Punchline Technologies](http://punchlinetech.com/)
 This project is licensed under the **Apache License 2.0** and depends on the [RabbitMQ Java Client](https://github.com/rabbitmq/rabbitmq-java-client),  
 which is triple-licensed under MPL 2.0, GPLv2, and Apache License 2.0.
 
-> **⚡ [If you want the multithreaded version (High-Performance Messaging), check here](https://www.b4x.com/android/forum/threads/donationware-frostrabbitmq-multithreaded-rabbitmq-wrapper-high-performance-messaging.168561/)**
+> ## ⚡ [Need Multi-threaded version? check here](https://www.b4x.com/android/forum/threads/donationware-frostrabbitmq-multithreaded-rabbitmq-wrapper-high-performance-messaging.168561/)**
 
 ### Original Java Library
 
